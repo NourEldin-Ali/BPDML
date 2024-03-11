@@ -6,7 +6,7 @@ This repository is created for the anonymous submissions of the BPM 2024 confere
 # TOOL
 
 # EVALUATIONS
-## UNDEERSTANDABILITY OF OUR SOLUTION
+## UNDERSTANDABILITY OF OUR SOLUTION
 
 ## USABILITY OF OUR SOULUTION
 
