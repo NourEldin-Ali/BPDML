@@ -1,0 +1,1 @@
+In the background, the system efficiently processes the user's list of items, calculating the total sum automatically. Should the total exceed 100, the system autonomously applies a 10% discount. Furthermore, if 'XYZ' is part of the list, an additional 5% discount is automatically factored in.
