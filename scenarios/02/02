@@ -1,0 +1,1 @@
+Once the user-submitted list is received, the system autonomously computes the total sum of individual amounts. If the sum exceeds 100, an automatic 10% discount is triggered. Additionally, a 5% discount is automatically applied if the item 'XYZ' is present in the list.
