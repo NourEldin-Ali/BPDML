@@ -1,0 +1,1 @@
+The automated system processes the previously provided list of items, calculating the sum of their individual amounts. If the total surpasses 100, an automatic 10% discount is applied. Moreover, if 'XYZ' is among the items, an additional 5% discount is automatically deducted.
