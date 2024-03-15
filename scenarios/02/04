@@ -1,0 +1,1 @@
+The automated processing system seamlessly calculates the total sum of the user's itemized list. When the sum exceeds 100, the system triggers an automatic 10% discount. Additionally, if 'XYZ' is detected in the list, a further 5% discount is automatically applied.
