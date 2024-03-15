@@ -1,0 +1,1 @@
+Upon receiving the user's pre-submitted list, the system autonomously calculates the total sum of individual amounts. Automatically, a 10% discount is applied if the total exceeds 100. To add another layer of savings, the system further deducts 5% if the specific item 'XYZ' is included in the list.
