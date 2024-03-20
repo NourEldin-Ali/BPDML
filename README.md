@@ -11,7 +11,7 @@ The xDF-BPMN Docker image is based on the official NodeJS image (node:16-buster)
 
 Run the following command after changing the <openai-key> and <bonita-workspace>. The <bonita-workspace> is used to connect our system to the Bonita ecosystem. In this case, we can directly connect to the Business Data Model defined within Bonita to define "Data store" objects. Also, it is important to export the xDF-BPMN to be executable within Bonita. Indeed, the <openai-key> is used for the transformation and validation of Gherkin from natural language to Groovy script code.
 
-    	$ docker pull anonymous4conferences/bpmn-tool:latest
+	$ docker pull anonymous4conferences/bpmn-tool:latest
 	$ docker run --name="bpmn-tool" --rm -p 3000:3000 -p 3001:3001  --env OPENAI_KEY=<open-api-key> -it -v <bonita-wokspace>:/usr/src/app/bonita anonymous4conferences/bpmn-tool
 
 
