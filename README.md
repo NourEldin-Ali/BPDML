@@ -48,4 +48,4 @@ raw=true
 />
 
 # EVALUATIONS
-The evaluation details are <a href="./BPM_2024__Evaluation.pdf">here</a>. Also, in the "prompts" folder you can find our prompts, and in "scenarios", all the scenarios we are used within our evaluation.
+The evaluation details are <a href="./Evaluation__Evaluation.pdf">here</a>. Also, in the "prompts" folder you can find our prompts, and in "scenarios", all the scenarios we are used within our evaluation.
