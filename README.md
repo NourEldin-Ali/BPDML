@@ -2,11 +2,11 @@
 This repository is created for the Process Science Journal submissions.
 
 # TOOL
-xDF-BPMN provides a Docker image to run the BPMN modeler as a Container in Docker.
-The xDF-BPMN Docker image is based on the official NodeJS image (node:16-buster). The container image contains a prebuild appliction and exposes the port 3000. The port 3001 is used flask server that used to connect to the openAI API.
+BPDML provides a Docker image to run the BPMN modeler as a Container in Docker.
+The BPDML Docker image is based on the official NodeJS image (node:16-buster). The container image contains a prebuild appliction and exposes the port 3000. The port 3001 is used flask server that used to connect to the openAI API.
 
 
-Run the following command after changing the <openai-key> and <bonita-workspace>. The <bonita-workspace> is used to connect our system to the Bonita ecosystem. In this case, we can directly connect to the Business Data Model defined within Bonita to define "Data store" objects. Also, it is important to export the xDF-BPMN to be executable within Bonita. Indeed, the <openai-key> is used for the transformation and validation of Gherkin from natural language to Groovy script code.
+Run the following command after changing the <openai-key> and <bonita-workspace>. The <bonita-workspace> is used to connect our system to the Bonita ecosystem. In this case, we can directly connect to the Business Data Model defined within Bonita to define "Data store" objects. Also, it is important to export the BPDML to be executable within Bonita. Indeed, the <openai-key> is used for the transformation and validation of Gherkin from natural language to Groovy script code.
 
 	$ docker pull anonymous4conferences/bpmn-tool:latest
 	$ docker run --name="bpmn-tool" --rm -p 3000:3000 -p 3001:3001  --env OPENAI_KEY=<open-api-key> -it -v <bonita-wokspace>:/usr/src/app/bonita anonymous4conferences/bpmn-tool
