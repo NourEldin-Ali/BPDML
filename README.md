@@ -1,8 +1,5 @@
-# BPM2024
-This repository is created for the anonymous submissions of the BPM 2024 conference.
-
-# RELATED WORKS
-<a href="./BPM_2024__Literature_review.pdf">Related work</a>
+# Process Science
+This repository is created for the Process Science Journal submissions.
 
 # TOOL
 xDF-BPMN provides a Docker image to run the BPMN modeler as a Container in Docker.
