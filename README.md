@@ -1,6 +1,10 @@
 # Process Science
 This repository is created for the Process Science Journal submissions.
 
+# Related Works
+A detailed related works are presented <a href="./related_works.pdf">here</a>.
+
+
 # TOOL
 BPDML provides a Docker image to run the BPMN modeler as a Container in Docker.
 The BPDML Docker image is based on the official NodeJS image (node:16-buster). The container image contains a prebuild appliction and exposes the port 3000. The port 3001 is used flask server that used to connect to the openAI API.
