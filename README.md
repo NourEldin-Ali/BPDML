@@ -1,5 +1,5 @@
-# Process Science
-This repository is created for the Process Science Journal submissions.
+# Information Systems
+This repository is created for the Information Systems Journal submissions.
 
 # Related Works
 A detailed related works are presented <a href="./related_works.pdf">here</a>.
