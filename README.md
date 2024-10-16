@@ -6,7 +6,7 @@ A detailed related works are presented <a href="./related_works.pdf">here</a>.
 
 # Prof of Concept
 You can find <a href="./purchase_request_20241016_0954.bos">here</a> a process model created directly by process developer on Bonita, and other convert the BPDML to Bonita ecosystem.
-You should <a href="https://www.bonitasoft.com/">download</a> Bonitasoft then import the .bos file, to show the model and the data implemented within the Bonita studio.
+You should <a href="https://www.bonitasoft.com/">download</a> Bonita Studio, then import the .bos file to view the models and data implemented within Bonita Studio.
 
 # TOOL
 BPDML provides a Docker image to run the BPMN modeler as a Container in Docker.
