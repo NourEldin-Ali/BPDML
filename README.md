@@ -22,6 +22,7 @@ Run the following command after changing the <openai-key> and <bonita-workspace>
 The application can be started from a web browser (if you add the Bonita workspace, you should use this workspace). You can run your tool without a Bonita workspace and without an OpenAI key, but it will not be executable for modeling purposes.
     
     http://localhost:3000/#/usr/src/app/workspace
+# RUNNING EXAMPLE
 
 <img
 src="./tool/Screenshot (20).png"
