@@ -22,7 +22,7 @@ Run the following command after changing the <openai-key> and <bonita-workspace>
 The application can be started from a web browser (if you add the Bonita workspace, you should use this workspace). You can run your tool without a Bonita workspace and without an OpenAI key, but it will not be executable for modeling purposes.
     
     http://localhost:3000/#/usr/src/app/workspace
-# RUNNING EXAMPLE
+
 
 <img
 src="./tool/Screenshot (20).png"
@@ -40,6 +40,12 @@ width = "250"
 raw=true
 />
 <img
+src="./tool/Screenshot 2023-11-08 150844.png"
+width = "250"
+raw=true
+/>
+# RUNNING EXAMPLE
+<img
 src="./tool/Screenshot 2023-11-03 123201.png"
 width = "250"
 raw=true
@@ -49,11 +55,7 @@ src="./tool/Screenshot 2023-11-03 123754.png"
 width = "250"
 raw=true
 />
-<img
-src="./tool/Screenshot 2023-11-08 150844.png"
-width = "250"
-raw=true
-/>
+
 
 # EVALUATIONS
 The evaluation details are <a href="./Evaluation__Evaluation.pdf">here</a>. Also, in the "prompts" folder you can find our prompts, and in "scenarios", all the scenarios we are used within our evaluation.
