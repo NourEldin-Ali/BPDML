@@ -4,6 +4,10 @@ This repository is created for the Information Systems Journal submissions.
 # Related Works
 A detailed related works are presented <a href="./related_works.pdf">here</a>.
 
+# Tutorial
+Note that this tutorial is similar to the one for DF-BPMN, but we have included all the BPDML extensions within this tutorial (although we use the name DF-BPMN in the tutorial).
+<h2 align="center"><a href="https://noureldin-ali.github.io/df-bpmn/tutorial/" target="_blank">Start tutorial</a></h2>
+
 # Proof of Concept
 You can find <a href="./purchase_request_20241016_0954.bos">here</a> a process model created directly by process developer on Bonita, and other convert the BPDML to Bonita ecosystem.
 You should <a href="https://www.bonitasoft.com/">download</a> Bonita Studio, then import the .bos file to view the models and data implemented within Bonita Studio.
